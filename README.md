@@ -73,10 +73,4 @@ Contributions are welcome! If you'd like to contribute to this project:
 
 - Inspiration from environmental organizations like [Tree-Nation](https://tree-nation.com/).
 
----
 
-Feel free to reach out if you have any questions or suggestions! 🌍
-
----
-
-You can customize this template to fit your project's specific details, such as adding more features, technologies, or team members. Good luck with your college project! 😊
